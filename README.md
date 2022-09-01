@@ -5,7 +5,7 @@ This project is based on kaggle course and popular competition on advanced regre
 
 The Ames Housing dataset was compiled by _Dean De Cock._
 
-## **Practice Skills**
+## **Practiced Skills**
 
 - Creative feature engineering
 - Advanced regression techniques like random forest and gradient boosting
